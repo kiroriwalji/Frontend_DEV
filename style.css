@@ -1,0 +1,19 @@
+.h{
+    border: 2px;
+    border-color: black;
+    background-color: cyan;
+    text-align: left;
+    image-resolution: 100px;
+    border-radius: 50px;
+    
+
+}
+
+
+#i{
+    text-align: center;
+    background-color: yellow;
+    border: 2px;
+    border-radius: 50px;
+}
+
