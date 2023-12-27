@@ -1,19 +1,34 @@
-.h{
-    border: 2px;
-    border-color: black;
-    background-color: cyan;
-    text-align: left;
-    image-resolution: 100px;
-    border-radius: 50px;
-    
+*{
+    margin: 0%;
+    padding: 0%;
 
 }
+.box{
+    height: 350px;
+    width: 23.5%;
+    border: 2px solid black;
+    margin: 5px;
+    background-color: white;
+    display: inline-block;
 
+}
+.image-box{
+    height: 60%;
+  
+}
+img{
+    height: 100%;
+    width: 100%;
+    border-radius: 0px 0px 25px 25px;
 
-#i{
+}
+.content{
+    height: 38%;
     text-align: center;
-    background-color: yellow;
-    border: 2px;
-    border-radius: 50px;
+
 }
 
+h2,h3,h4{
+    text-align: center;
+
+}
